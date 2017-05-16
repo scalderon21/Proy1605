@@ -1,5 +1,6 @@
 <?php
-$_SESSION["saludo"]="Hola mundo";
+/*session_start();
+$_SESSION["saludo"]="Hola mundo";*/
 ?>
 
 <!DOCTYPE html>
